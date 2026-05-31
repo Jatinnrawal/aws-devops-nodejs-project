@@ -1,0 +1,14 @@
+{
+  "name": "aws-devops-project",
+  "version": "1.0.0",
+  "description": "Node.js DevOps project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jatin Rawal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
